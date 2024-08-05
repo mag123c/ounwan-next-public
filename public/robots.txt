@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://app.ounwan.net
+
+# Sitemaps
+Sitemap: https://app.ounwan.net/sitemap.xml
